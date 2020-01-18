@@ -1,3 +1,3 @@
-<script id="asciicast-294438" src="https://asciinema.org/a/294438.js" async></script>
+<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
 
 # asciinema-testing
